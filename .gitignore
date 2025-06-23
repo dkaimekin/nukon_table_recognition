@@ -1,1 +1,10 @@
 venv/
+media/
+data/
+
+api/test_images/
+api/__pycache__/
+
+*.jpg
+*.pt
+*.h5
